@@ -1,6 +1,6 @@
 * {
 	background-color: #e1244d;
-	text-align: center;
+	text-align: left;
 }
 
 main {
@@ -26,12 +26,11 @@ a:hover {
 	color: #000;
 }
 
-ul {
 
-	list-style: none; 
+header {
+
+	font-size: 22px; 
 }
-
-
 h2 {
 	
 	
