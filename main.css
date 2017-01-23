@@ -1,0 +1,32 @@
+* {
+	background-color: #e1244d;
+	text-align: center;
+}
+
+main {
+  color: white; 
+  border: 1px #fff;
+  background-color: #e1244d;
+  padding: 30px;
+  font-weight: bold; 
+  font: 1em/1.5 "Helvetica";
+   
+}
+
+a:link {
+ 	color: #fff; 
+}
+
+footer {
+	color: white;
+
+}
+
+a:hover {
+	color: #000;
+}
+
+ul {
+
+	list-style: none; 
+}
